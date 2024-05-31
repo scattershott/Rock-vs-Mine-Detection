@@ -45,7 +45,7 @@ Throughout the project, Python libraries such as NumPy, Pandas, and Scikit-learn
 
 Here's a visual representation of the workflow for this project:
 
-![Project Workflow](/path/to/your/repo/workflow.png)
+![Project Workflow](workflow.png)
 
 1. The SONAR dataset is loaded and preprocessed.
 2. The preprocessed dataset is split into training and testing sets.
