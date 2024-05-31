@@ -5,6 +5,9 @@
 
 The use of SONAR technology has proven to be an effective technique for detecting and identifying underwater objects, including rocks and mines. However, manually analyzing and interpreting SONAR data can be a challenging and time-consuming task, especially when dealing with large volumes of data. This is where machine learning techniques can be applied to automate the process of identifying and classifying detected objects as either rocks or mines based on the SONAR signal characteristics.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tGGTX-W_zLB5M5CprvDaiKC_N6w9Q7iT?authuser=0#scrollTo=fGAz37n0P3hJ)
+
+
 ### Understanding Logistic Regression
 
 Logistic Regression is a statistical model used for binary classification problems, where the goal is to predict the probability of an instance belonging to one of two classes. In our case, we aim to predict whether a detected object is a rock or a mine based on the SONAR signal features.
